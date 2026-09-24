@@ -1,0 +1,10 @@
+{
+  "name": "Phinite MCP Prototype",
+  "version": "0.1.0",
+  "platform": "phinite",
+  "environment": "mock",
+  "mcp_server": {
+    "name": "phinite-prototype",
+    "transport": "stdio"
+  }
+}
