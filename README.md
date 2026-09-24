@@ -7,7 +7,7 @@
 A short demonstration of the MCP in AntiGravity.
 
 [▶️ Watch the 30-second demo](assets)
-[](assets/phinite_ai_MCP_antigravity_demo.png)
+[Phinite_Ai_MCP_antigravity Overview](assets/phinite_ai_MCP_antigravity_demo.png)
 ## Overview
 
 This project explores how **Model Context Protocol (MCP)** can be used as a programmatic control interface for an AI-agent platform such as Phinite.
