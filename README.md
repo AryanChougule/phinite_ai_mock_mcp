@@ -6,7 +6,7 @@
 
 A short demonstration of the MCP in AntiGravity.
 
-[▶️ Watch the 30-second demo](assets\Phinite_AI_MCP_interaction_with_AntiGravity.mp4)
+[▶️ Watch the 30-second demo](assets\)
 
 ## Overview
 
