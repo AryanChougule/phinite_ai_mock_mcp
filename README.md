@@ -2,6 +2,12 @@
 
 > **A proof-of-concept MCP server that allows AI coding agents to programmatically build, inspect, modify, validate, test, approve, and publish AI agent workflows.**
 
+## 🎥 Demo
+
+A short demonstration of the MCP in AntiGravity.
+
+[▶️ Watch the 30-second demo](assets\Phinite_AI_MCP_interaction_with_AntiGravity.mp4)
+
 ## Overview
 
 This project explores how **Model Context Protocol (MCP)** can be used as a programmatic control interface for an AI-agent platform such as Phinite.
