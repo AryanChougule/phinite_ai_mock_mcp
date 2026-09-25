@@ -1,7 +1,7 @@
 # Phinite MCP — Agent Platform Control Prototype
 
 > **A proof-of-concept MCP server that allows AI coding agents to programmatically build, inspect, modify, validate, test, approve, and publish AI agent workflows.**
-## Requirement of MCP in Phinite AI
+## My reason to build this and Requirement of MCP in Phinite AI
 I was a participant of Agent Labs Buildathon: Phinite × Paytm, when I was building I noticed that phinite AI's own AI assistant "Phinite Aura" was very useful, you just prompt it and it will generate the agent workflow, but after going through 3 to 4 iterations through prompts I was able to build a agent that can be used as a base agent that will still needs improvements and optimizations. Where I though that "Does Phinite has MCP ??", Googled it also asked the co-ordinators and come to know their isnt a MCP. I though if thier was a MCP then I can easily build the agent workflow using Claude in just 1 to 2 prompts and the system will be production level.
 Now I am not saying that Aura is not a good model it is a awesome model , but the state we are in having SOTA models in your workplace is default.
 So I thought I will build a Mock MCP server for Phinite AI that can enable using AI assistants like Claude, ChatGPT, Antigravity, etc in the Phinite Workplace.
