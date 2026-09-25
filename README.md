@@ -1,19 +1,35 @@
 # Phinite MCP — Agent Platform Control Prototype
 
 > **A proof-of-concept MCP server that allows AI coding agents to programmatically build, inspect, modify, validate, test, approve, and publish AI agent workflows.**
+## Requirement of MCP in Phinite AI
+I was a participant of Agent Labs Buildathon: Phinite × Paytm, when I was building I noticed that phinite AI's own AI assistant "Phinite Aura" was very useful, you just prompt it and it will generate the agent workflow, but after going through 3 to 4 iterations through prompts I was able to build a agent that can be used as a base agent that will still needs improvements and optimizations. Where I though that "Does Phinite has MCP ??", Googled it also asked the co-ordinators and come to know their isnt a MCP. I though if thier was a MCP then I can easily build the agent workflow using Claude in just 1 to 2 prompts and the system will be production level.
+Now I am not saying that Aura is not a good model it is a awesome model , but the state we are in having SOTA models in your workplace is default.
+So I thought I will build a Mock MCP server for Phinite AI that can enable using AI assistants like Claude, ChatGPT, Antigravity, etc in the Phinite Workplace.
 
-## 🎥 Demo
+Also their are three Business Insights behind building MCP for Phinite AI
+
+1. User can Interact and build agent through Phinte but using their own AI assistant and familar interface.
+
+2.If user use their own assistant for thinking, processing and building this will reduce the cost, the number of requests sent to Phinite Aura can be reduced, resulting in lower infrastructure usage and reduced server maintenance costs for Phinite.
+
+3. This is my favorite, Claude has an estimated 12 million paid users/monthly and total of 56 million to 220 million monthly active users globally, ChatGPT has 1 billion/month and  35 million to 50 million unique paying subscribers and , AntiGravity has 2.5 million, etc. When users search for an MCP with a name similar to “Phinite AI,” there is a possibility that the official Phinite MCP could appear in the search results. This could create an unexpected discovery point where users who were not specifically looking for Phinite become curious about the company and explore its platform. As MCP adoption grows, this could become a valuable source of organic, targeted exposure to a large number of potential users.So potentially this will be free marketing to 100's of millions of potential users.
+
+4. Also having your own MCP Server is very cool..  
+
+## MCP testing in Antigravity
 
 A short demonstration of the MCP in AntiGravity.
 
 <p align="center">
   <img src="assets/phinite_ai_MCP_antigravity_demo.png" alt="Phinite AI MCP — AntiGravity Demo" width="900">
+  <img src="assets/phinite_ai_MCP_antigravity_demo_2.png" alt="Phinite AI MCP — AntiGravity Demo" width="900">
+  <img src="assets/phinite_ai_MCP_antigravity_demo_3.png" alt="Phinite AI MCP — AntiGravity Demo" width="900">
 </p>
 
-[▶️ Watch the 30-second demo](assets/Phinite_AI_MCP_interaction_with_AntiGravity.mp4)
+[Watch the 30-second demo](assets/Phinite_AI_MCP_interaction_with_AntiGravity.mp4)
 ## Overview
 
-This project explores how **Model Context Protocol (MCP)** can be used as a programmatic control interface for an AI-agent platform such as Phinite.
+This project shows a real use of **Model Context Protocol (MCP)** can be used as a programmatic control interface for an AI-agent platform such as Phinite.
 
 Instead of manually building an agent through a visual interface, an AI coding agent such as **Antigravity** can interact with the platform through MCP tools.
 
