@@ -10,7 +10,7 @@ Also their are three Business Insights behind building MCP for Phinite AI
 
 1. User can Interact and build agent through Phinte but using their own AI assistant and familar interface.
 
-2.If user use their own assistant for thinking, processing and building this will reduce the cost, the number of requests sent to Phinite Aura can be reduced, resulting in lower infrastructure usage and reduced server maintenance costs for Phinite.
+2. If user use their own assistant for thinking, processing and building this will reduce the cost, the number of requests sent to Phinite Aura can be reduced, resulting in lower infrastructure usage and reduced server maintenance costs for Phinite.
 
 3. This is my favorite, Claude has an estimated 12 million paid users/monthly and total of 56 million to 220 million monthly active users globally, ChatGPT has 1 billion/month and  35 million to 50 million unique paying subscribers and , AntiGravity has 2.5 million, etc. When users search for an MCP with a name similar to “Phinite AI,” there is a possibility that the official Phinite MCP could appear in the search results. This could create an unexpected discovery point where users who were not specifically looking for Phinite become curious about the company and explore its platform. As MCP adoption grows, this could become a valuable source of organic, targeted exposure to a large number of potential users.So potentially this will be free marketing to 100's of millions of potential users.
 
